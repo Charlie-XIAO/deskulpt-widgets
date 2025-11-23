@@ -1,0 +1,8 @@
+{
+  "name": "[EXAMPLE] Digital Clock",
+  "entry": "index.jsx",
+  "authors": ["Yao Xiao <yx2436@nyu.edu>"],
+  "description": "An example digital clock widget.",
+  "version": "0.1.0-alpha.0",
+  "license": "MIT"
+}
