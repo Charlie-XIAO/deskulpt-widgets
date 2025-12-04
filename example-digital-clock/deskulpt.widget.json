@@ -9,5 +9,6 @@
   ],
   "description": "An example digital clock widget.",
   "version": "0.1.0-alpha.0",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/Charlie-XIAO/deskulpt-widgets/tree/main/example-digital-clock"
 }
