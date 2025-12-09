@@ -1,0 +1,14 @@
+{
+  "name": "[EXAMPLE] System Information",
+  "version": "0.1.0-alpha.0",
+  "authors": [
+    {
+      "name": "Yao Xiao",
+      "email": "yx2436@nyu.edu"
+    }
+  ],
+  "license": "MIT",
+  "description": "A widget that shows CPU, RAM, and SWAP usage in real time.",
+  "homepage": "https://github.com/Charlie-XIAO/deskulpt-widgets/tree/main/example-sysinfo",
+  "entry": "index.jsx"
+}
